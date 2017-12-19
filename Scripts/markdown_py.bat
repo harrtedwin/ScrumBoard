@@ -1,0 +1,1 @@
+@"c:\users\oryx\djangular\scripts\python.exe" "c:\users\oryx\djangular\Scripts\markdown_py" %*
